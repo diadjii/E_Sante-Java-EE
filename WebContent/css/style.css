@@ -1,0 +1,274 @@
+#menu {
+	background-color: rgba(32, 79, 151, 0.7);
+}
+
+#menu>li {
+	color: #fff;
+}
+
+#titre {
+	padding-left: 50%;
+}
+
+#bar {
+	padding-left: 55%;
+}
+
+#bar>ul>li:hover {
+	border-bottom: 1px solid #fff;
+}
+
+#medecin_1 {
+	color: #fff;
+	padding: 150px 0px 0px 170px;
+	max-width: 100%;
+	height: 300px;
+	background-image: url("../images/doc.jpg");
+	background-repeat: none;
+}
+
+#homebar {
+	background-color: rgba(255, 255, 255, 0.7);
+}
+
+#medical {
+	font-family: mytitre;
+}
+
+#medical>a:hover {
+	text-decoration: none;
+}
+
+#logos {
+	height: 50px;
+	width: 50px;
+	margin-left: 38%;
+	margin-bottom: -35px;
+}
+
+#logosD {
+	height: 50px;
+	width: 50px;
+	margin-top: -60px;
+	margin-left: 60%;
+	margin-bottom: 0px;
+}
+
+#contentAdd {
+	margin-top: -200px;
+	padding-top: 200px;
+	background-image: url("../images/st2.jpg");
+}
+
+#consul {
+	margin-bottom: 0%;
+	padding: 5%;
+	background: rgba(255, 255, 255, 0.7);
+	height: 200px;
+	padding: 5%;
+}
+
+#btnConsul {
+	margin-top: 5%;
+}
+
+#biendocteur {
+	text-decoration: underline;
+	font-size: 3em;
+}
+
+#succesrv>.modal-content {
+	padding: 5px;
+}
+
+#header {
+	position: absolute;
+	max-width: 100%;
+	margin-bottom: 10px;
+	height: 700px;
+	background-image: url("../images/des.jpg");
+	max-width: 100%;
+	height: 700px;
+}
+
+#logo {
+	padding-left: 45%;
+	width: 65%;
+	height: 50px;
+}
+
+#textPresentaiton {
+	font-family: myh1;
+	height: 600px;
+	padding-top: 12%;
+	padding-left: 4%;
+	margin: 5% 0% 0% 43%;
+	font-size: 1.5em;
+	border: 1px solid rgba(30, 85, 231, 0);
+	border-radius: 100%;
+	background: rgba(255, 255, 255, 0.6);
+}
+
+#newDoc {
+	padding: 2%;
+}
+
+#bodyConx {
+	background-color: url("../images/")
+}
+
+#btnLog {
+	margin-top: 5%;
+	margin-left: 25%;
+}
+
+#acces_refuse {
+	margin-top: 20%;
+	margin-left: 20%;
+	color: rgba(215, 44, 46, 0.9);
+}
+
+@font-face {
+	font-family: myh1;
+	src: url(roboto.ttf);
+}
+
+@font-face {
+	font-family: mytitre;
+	src: url(name.ttf);
+}
+
+#connect {
+	font-family: myh1;
+	font-size: 2em;
+	text-align: center;
+}
+
+#form {
+	top: 25%;
+	left: 35%;
+	position: absolute;
+	border: 1px solid #000;
+	border-radius: 2%;
+	background: rgba(0, 0, 0, 0.7);
+	padding: 5px 0px 7px 0px;
+}
+
+#messageRV {
+	font-size: 1.5em;
+}
+
+#patientHeader {
+	margin-top: -2%;
+	padding: 50px 0px 0px 70px;
+	max-width: 100%;
+	height: 350px;
+	background: rgba(255, 255, 255, 0.6);
+	padding: 50px 0px 0px 70px;
+}
+
+.titre {
+	margin-top: 2%;
+	margin-bottom: -50px;
+	text-decoration: underline;
+	color: #fff;
+	text-decoration: underline;
+	text-decoration: underline
+}
+
+.titres {
+	margin-top: 2%;
+	margin-bottom: 2%;
+	text-decoration: underline;
+	color: #fff;
+	text-decoration: underline;
+}
+
+#btn {
+	color: #fff;
+	background: rgba(0, 0, 15, 1);
+}
+
+#identi {
+	font-size: 2em;
+	color: #fff;
+	font-family: myh1;
+	margin-bottom: 2%;
+	color: #000;
+	background: url("../images/cer.png");
+}
+
+#footer {
+	margin-top: 3%;
+	color: #fff;
+	padding: 3% 0% 5% 2%;
+	max-width: 100%;
+	height: 100%;
+	background: rgba(0, 0, 12, 0.95);
+	color: #fff;
+}
+
+#footerLog {
+	color: #fff;
+	max-width: 100%;
+	height: 10%;
+	background: rgba(0, 0, 12, 0.95);
+	color: #fff;
+	background: rgba(0, 0, 12, 0.95);
+}
+
+#icon {
+	margin: -90px 0px 0px 50%;
+	height: 150px;
+	width: 150px;
+	height: 150px;
+	border: 2px solid #000;
+	border-radius: 50%;
+	background: #fff;
+}
+
+#iconMedecin {
+	margin: -90px 0px 0px 40%;
+	height: 150px;
+	width: 150px;
+	height: 150px;
+	border: 2px solid #fff;
+	border-radius: 50%;
+	background: #fff;
+}
+
+#headerProfil {
+	background: rgba(71, 99, 177, 1);
+	max-width: 100%;
+	height: 270px;
+	max-width: 100%;
+}
+
+#editProfil {
+	padding: 2%;
+	margin-top: 10%;
+	margin-bottom: 0%;
+	border: 1px solid #fff;
+	background: rgba(255, 255, 255, 0.6);
+	border: 1px solid #fff;
+}
+
+#editProfils {
+	padding: 2%;
+	margin-top: 2%;
+	margin-bottom: 2%;
+	border: 1px solid #fff;
+	background: rgba(255, 255, 255, 0.6);
+	border: 1px solid #fff;
+}
+
+#titreEdit {
+	margin-top: 50px;
+	text-decoration: underline;
+}
+
+#content {
+	margin-top: -200px;
+	padding-top: 200px;
+	background-image: url("../images/back.jpg");
+}
